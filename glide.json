@@ -1,0 +1,20 @@
+[
+  {
+    "kind": "column",
+    "name": "validationIDnumber",
+    "description": "validates an Israeli ID number.",
+    "author": "Meirav Spiero <meirav@ulloo.io>",
+    "params": [
+      
+      {
+        "name": "IDnumber",
+        "displayName": "idnumber",
+        "type": "string"
+      }
+     
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
